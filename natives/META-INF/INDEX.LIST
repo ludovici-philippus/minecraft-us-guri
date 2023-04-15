@@ -1,0 +1,11 @@
+JarIndex-Version: 1.0
+
+lwjgl-natives-linux.jar
+META-INF
+META-INF/versions
+META-INF/versions/9
+linux
+linux/x64
+linux/x64/org
+linux/x64/org/lwjgl
+

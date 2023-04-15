@@ -1,0 +1,37 @@
+{
+  "parent": "minecraft:adventure/root",
+  "criteria": {
+    "spyglass_at_parrot": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type_specific": {
+                "type": "player"
+              },
+              "equipment": {
+                "mainhand": {
+                  "items": [
+                    "minecraft:iron_sword"
+                  ],
+                  "nbt": "{soulsteal: 1}"
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "spyglass_at_parrot"
+    ]
+  ],
+  "rewards": {
+    "function": "wr:blade/soul_steal"
+  }
+}

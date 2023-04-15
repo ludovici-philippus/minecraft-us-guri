@@ -1,0 +1,1 @@
+execute as @a[nbt={Inventory:[{Slot: -106b,id:"minecraft:command_block",tag:{soulbottle:1}}]}] run function wr:bottle/reabsorb

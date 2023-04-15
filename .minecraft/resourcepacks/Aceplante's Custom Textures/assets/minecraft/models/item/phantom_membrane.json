@@ -1,0 +1,14 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/phantom_membrane"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 39
+      },
+      "model": "custom/wool_item"
+    }
+  ]
+}

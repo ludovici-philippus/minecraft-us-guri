@@ -1,0 +1,26 @@
+{
+    "formatVersion": 1,
+    "name": "OptiFine",
+    "+libraries": [
+        {
+            "name": "net.minecraft:launchwrapper:of-2.3",
+            "url": "https://files.multimc.org/maven/"
+        },
+        {
+            "name": "optifine:OptiFine:1.19.4_HD_U_I4",
+            "MMC-hint": "local",
+            "MMC-filename": "OptiFine_1.19.4_HD_U_I4.jar"
+        }
+    ],
+    "+tweakers": [ "optifine.OptiFineTweaker" ],
+    "mainClass": "net.minecraft.launchwrapper.Launch",
+    "requires": [
+        {
+            "uid": "net.minecraft",
+            "equals": "1.19.4"
+        }
+    ],
+    "uid": "optifine.OptiFine",
+    "version": "1.19.4_HD_U_I4"
+}
+
