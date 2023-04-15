@@ -2922,9 +2922,51 @@
     },
     "done": true
   },
+  "enchantmentplus:installation": {
+    "criteria": {
+      "trigger": "2023-04-15 11:14:53 -0300"
+    },
+    "done": true
+  },
+  "global:wyvernity": {
+    "criteria": {
+      "trigger": "2023-04-15 11:14:53 -0300"
+    },
+    "done": true
+  },
+  "global:root": {
+    "criteria": {
+      "trigger": "2023-04-15 11:14:53 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_the_recipe": "2023-04-15 11:59:02 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/detector_rail": {
     "criteria": {
       "has_rail": "2023-04-15 11:59:04 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2023-04-15 11:59:04 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2023-04-15 11:59:04 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2023-04-15 12:05:05 -0300"
     },
     "done": true
   },
@@ -2937,48 +2979,6 @@
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2023-04-15 12:34:22 -0300"
-    },
-    "done": true
-  },
-  "enchantmentplus:installation": {
-    "criteria": {
-      "trigger": "2023-04-15 11:14:53 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone": {
-    "criteria": {
-      "has_redstone_block": "2023-04-15 12:05:05 -0300"
-    },
-    "done": true
-  },
-  "global:wyvernity": {
-    "criteria": {
-      "trigger": "2023-04-15 11:14:53 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/activator_rail": {
-    "criteria": {
-      "has_rail": "2023-04-15 11:59:04 -0300"
-    },
-    "done": true
-  },
-  "global:root": {
-    "criteria": {
-      "trigger": "2023-04-15 11:14:53 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/powered_rail": {
-    "criteria": {
-      "has_rail": "2023-04-15 11:59:04 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/rail": {
-    "criteria": {
-      "has_the_recipe": "2023-04-15 11:59:02 -0300"
     },
     "done": true
   },
