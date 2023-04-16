@@ -1,0 +1,1 @@
+scoreboard objectives add eggs minecraft.crafted:minecraft.chicken_spawn_egg

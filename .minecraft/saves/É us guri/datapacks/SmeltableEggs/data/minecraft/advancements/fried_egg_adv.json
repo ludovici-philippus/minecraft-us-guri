@@ -1,0 +1,14 @@
+{
+  "__comment": "By Aceplante",
+  "criteria": {
+    "friedegg": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "subtlelties:fried_egg"
+      }
+    }
+  },
+  "rewards": {
+    "function": "minecraft:achv_give_fried_egg"
+  }
+}

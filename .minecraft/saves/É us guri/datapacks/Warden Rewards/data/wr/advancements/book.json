@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "Unlocked": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "wr:soul_book"
+      }
+    }
+  },
+  "rewards": {
+    "function": "wr:crafted_book"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/axolotl_bucket"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 991
+      },
+      "model": "custom/axolotl_bucket/leucistic_baby"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 992
+      },
+      "model": "custom/axolotl_bucket/wild"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 993
+      },
+      "model": "custom/axolotl_bucket/wild_baby"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 994
+      },
+      "model": "custom/axolotl_bucket/gold"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 995
+      },
+      "model": "custom/axolotl_bucket/gold_baby"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 996
+      },
+      "model": "custom/axolotl_bucket/cyan"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 997
+      },
+      "model": "custom/axolotl_bucket/cyan_baby"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 998
+      },
+      "model": "custom/axolotl_bucket/blue"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 999
+      },
+      "model": "custom/axolotl_bucket/blue_baby"
+    }
+  ]
+}

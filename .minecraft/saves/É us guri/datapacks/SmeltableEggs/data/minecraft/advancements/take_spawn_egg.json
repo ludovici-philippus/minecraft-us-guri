@@ -1,0 +1,20 @@
+{
+  "__comment": "By Aceplante",
+  "criteria": {
+    "has_log": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:chicken_spawn_egg"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "function": "minecraft:achv_take_spawn_egg"
+  }
+}
